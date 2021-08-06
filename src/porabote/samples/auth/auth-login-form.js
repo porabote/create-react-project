@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { NavLink } from 'react-router-dom'
-import AuthService from '@porabote/services'
+import { check, login } from './auth-service'
 import { Form, Field, InputHidden, Input, Button, Checkbox, SubmitButton } from '@porabote/form'
 import  './auth.less'
 import AccountCircleOutlinedIcon from '@material-ui/icons/AccountCircleOutlined';

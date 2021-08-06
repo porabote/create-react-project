@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Switch, Redirect } from 'react-router-dom'
 import ProtectedRoute from '@porabote/protected-route/'
-import { Auth } from '@components/auth'
+import { Auth } from '@porabote/auth'
 import Docs from '../docs'
 import Reports from '../reports'
 import MainPage from '../main-page'

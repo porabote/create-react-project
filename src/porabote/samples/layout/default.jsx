@@ -1,8 +1,8 @@
 import React from 'react'
-import Modal from '../modal'
 import AppRouter from '@components/app-router'
-import Header from '../header'
-import { Sidebar } from '@porabote'
+import Header from '@components/header'
+import Sidebar from '../sidebar'
+import { Modal } from '@porabote'
 
 const Layout = () => {
 

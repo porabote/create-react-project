@@ -1,5 +1,5 @@
-import Sidebar from './sidebar'
+import Modal from './modal'
 
 export {
-    Sidebar
+    Modal
 }

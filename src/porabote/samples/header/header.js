@@ -19,7 +19,7 @@ import '@porabote/form/button.less'
 import Profile from './profile'
 import TopMenu from './top-menu'
 import TopIcons from './top-icons'
-import { AuthConsumer } from '@porabote/auth'
+import { AuthConsumer } from '@components/auth'
 
 var Header = props =>
 {
